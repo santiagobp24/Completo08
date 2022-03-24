@@ -12,5 +12,6 @@ public class App
         System.out.println( 1*2*2 );
         System.out.println( 1*2*4*2 );
         System.out.println( 1*2*3 );
+        //hotfix
     }
 }
